@@ -1,0 +1,31 @@
+_repo: On-Some-Ancient-Battle-Fields-in-LancashireAnd-Their-Historical-Legendary-and-Aesthetic-Assoc__40918
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40918-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Hardwick, Charles
+    birthdate: 1817
+    deathdate: 1889
+    gutenberg_agent_id: '40317'
+    url: http://www.gutenberg.org/2009/agents/40317
+description: ''
+gutenberg_issued: '2012-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40918'
+  lccn: '02030167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066'
+- !lcsh 'Battles -- England'
+- !lcsh 'Lancashire (England) -- History'
+- !lcc 'DA'
+title: 'On Some Ancient Battle-Fields in Lancashire
+
+  And Their Historical, Legendary, and Aesthetic Associations.'
+url: http://www.gutenberg.org/ebooks/40918
